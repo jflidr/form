@@ -1,0 +1,22 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": "=14.11.0",
+    "yarn": "=1.22.10"
+  },
+  "dependencies": {
+    "@hapi/boom": "=9.1.0",
+    "@hapi/good": "=9.0.1",
+    "@hapi/hapi": "=20.0.3",
+    "bunyan": "1.8.14",
+    "bunyan-format": "=0.2.1",
+    "good-bunyan": "3.0.1",
+    "joi": "17.3.0",
+    "multiparty": "4.2.2",
+    "uuid": "8.3.2"
+  }
+}
